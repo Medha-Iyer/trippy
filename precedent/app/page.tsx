@@ -47,7 +47,7 @@ export default async function Home() {
         >
           <a
             className="group flex max-w-fit items-center justify-center space-x-2 rounded-full border border-blue-700 bg-blue-700 px-5 py-2 text-sm text-white transition-colors hover:bg-white hover:text-black"
-            href={DEPLOY_URL}
+            href="/form"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -55,7 +55,7 @@ export default async function Home() {
           </a>
           <a
             className="flex max-w-fit items-center justify-center space-x-2 rounded-full border border-blue-300 bg-white px-5 py-2 text-sm text-blue-500 shadow-md transition-colors hover:border-gray-800"
-            href="https://github.com/steven-tey/precedent"
+            href="https://github.com/Medha-Iyer/trippy"
             target="_blank"
             rel="noopener noreferrer"
           >
