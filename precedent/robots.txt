@@ -1,4 +1,4 @@
-Sitemap: https://precedent.dev/sitemap.xml
+Sitemap: https://trippy.com/sitemap.xml
 
 User-agent: *
 Disallow: /api
